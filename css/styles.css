@@ -1,0 +1,27 @@
+body {
+   font-family: sans-serif;
+}
+
+input[type="number"] {
+   width: 50px;
+   margin-right: 10px;
+}
+
+button {
+   padding: 5px 10px;
+   background-color: #4CAF50;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.result {
+   font-weight: bold;
+   margin-top: 20px;
+}
+
+#div {
+   border: 1px dotted #000;
+   position: absolute;
+}
